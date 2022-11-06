@@ -1,0 +1,565 @@
+94
+s23102
+Allen, Amanda Nicole
+CSE350
+89
+CSE472
+90
+s23104
+Anderson, Grant William Frank
+CSE350
+76
+CSE472
+60
+s23110
+Ball, Andrew Carl
+CSE350
+79
+CSE472
+83
+sm3112
+Barrk, Gordons James
+CSE350
+67
+CSE472
+34
+s23113
+Barret, Jeffrey Paul
+CSE350
+55
+CSE472
+76
+s23115
+Bel, Michaels Gordon
+CSE350
+21
+CSE472
+23
+s23081
+Bennet, Lessica Marie
+CSE350
+87
+CSE472
+67
+s23116
+Ber, Tanya Marie
+CSE350
+66
+CSE472
+55
+s23016
+Berrier, George Allan
+CSE350
+81
+CSE472
+87
+sm3117
+Bezanson, Krystal Bette Lynn
+CSE350
+20
+CSE472
+14
+s23118
+Blyt, Bryan Nicholas
+CSE350
+86
+CSE472
+91
+s23120
+Bonds, Colin Dwayne
+CSE350
+81
+CSE472
+87
+s23121
+Boogaar, Marks Adrian
+CSE350
+88
+CSE472
+77
+s23122
+Bossenck, John Alec
+CSE350
+34
+CSE472
+45
+s23072
+Bourques, Hennie Gary
+CSE350
+81
+CSE472
+88
+s23124
+Bowse, James Andrew
+CSE350
+45
+CSE472
+21
+sm3126
+Bristo, Jillian Louise
+CSE350
+40
+CSE472
+19
+s23127
+Bryan, Christopher Gordon
+CSE350
+87
+CSE472
+77
+s23129
+Burrel, Russell Patrick
+CSE350
+94
+CSE472
+77
+s23131
+Carreiros, Jonathan Andrew
+CSE350
+60
+CSE472
+78
+s23134
+Cheng, Cui Xian
+CSE350
+53
+CSE472
+76
+s23067
+Clark, Lianne Elizabeth
+CSE350
+81
+CSE472
+83
+s23139
+Dagenai, Michelle Suzanne
+CSE350
+67
+CSE472
+59
+sm3140
+Dares, Christopher John
+CSE350
+40
+CSE472
+56
+s23141
+Dast, Jason
+CSE350
+45
+CSE472
+62
+s23142
+Davidz, Andrew Mark
+CSE350
+81
+CSE472
+91
+sm3143
+Dean, Marcier Elizabeth Tulloch
+CSE350
+76
+CSE472
+87
+s23146
+Dixons, Jonathon Gerald
+CSE350
+49
+CSE472
+39
+s23147
+Dougla, Marshall Rene Norman
+CSE350
+56
+CSE472
+67
+s22865
+Doyle, Ian James
+CSE350
+89
+CSE472
+91
+s23148
+Doyle, Kiam James
+CSE350
+78
+CSE472
+97
+s23004
+Dyke, Layla Dawn
+CSE350
+83
+CSE472
+91
+sm0851
+Edwards, David Joseph
+CSE350
+80
+CSE472
+78
+s23152
+Funton, Trevor James
+CSE350
+89
+CSE472
+65
+s23156
+Gasch, Andrews Duncan
+CSE350
+76
+CSE472
+83
+s23159
+Gregory, Matthews Duncan
+CSE350
+80
+CSE472
+91
+sm0862
+Haa, Barbara Mary
+CSE350
+81
+CSE472
+98
+s23164
+Halls, Nicola
+CSE350
+81
+CSE472
+78
+s23166
+Hanley, Andrea Therese
+CSE350
+82
+CSE472
+91
+s23408
+HanselPacker, Gabriel J
+CSE350
+81
+CSE472
+92
+s23168
+Harpers, Gregory
+CSE350
+8
+CSE472
+54
+s23167
+Harpers, Laura Eileen
+CSE350
+67
+CSE472
+92
+s23170
+Hattaa, Maciej
+CSE350
+76
+CSE472
+82
+s23171
+Heckmen, Christopher Patrick
+CSE350
+76
+CSE472
+78
+s23040
+Hefferen, Francis Leigh
+CSE350
+77
+CSE472
+56
+s23173
+Horan, Peter Francis
+CSE350
+45
+CSE472
+23
+s23174
+Houlgate, Kevin Michael
+CSE350
+80
+CSE472
+87
+s23175
+James, Dylan Tyler
+CSE350
+67
+CSE472
+59
+s23176
+Jefferies, Justin George
+CSE350
+80
+CSE472
+98
+s23177
+Jennings, Lara Claire
+CSE350
+81
+CSE472
+87
+s22996
+Kalincak, Jason Richard
+CSE350
+80
+CSE472
+89
+s23180
+Kisway, Kyle Alexander
+CSE350
+81
+CSE472
+89
+s23182
+Kornmacher, Lars
+CSE350
+77
+CSE472
+67
+s23183
+Kroeker, Christopher Michael
+CSE350
+89
+CSE472
+98
+s22995
+Latwaitis, Stephen Gregory
+CSE350
+67
+CSE472
+78
+s23187
+Leblanc, Patrick
+CSE350
+81
+CSE472
+89
+s23189
+Leibold, James William
+CSE350
+87
+CSE472
+78
+s23191
+Leithead, Sean Gregory
+CSE350
+45
+CSE472
+87
+s22770
+Liakas, Raphael
+CSE350
+56
+CSE472
+78
+s23193
+Lizotte, Ryan Joseph Dory
+CSE350
+87
+CSE472
+91
+sm0861
+MacDonald, Jeffery Edwin
+CSE350
+81
+CSE472
+89
+s22991
+Macdonald, Dawn Marie
+CSE350
+80
+CSE472
+98
+s23201
+Marissen, Erin Stacey
+CSE350
+80
+CSE472
+86
+s22970
+Marshall, Geoffrey George
+CSE350
+80
+CSE472
+68
+s23205
+Mathison, Kristy Lynne Bjerregaard
+CSE350
+100
+CSE472
+99
+s23209
+McMullan, Thomas Charles
+CSE350
+78
+CSE472
+67
+s23003
+Michon, Diane Claire Isabel
+CSE350
+54
+CSE472
+45
+s23024
+Nadeau, Lindsay Anne
+CSE350
+63
+CSE472
+79
+s23216
+Nalepau, Leidre Marie
+CSE350
+89
+CSE472
+92
+s23409
+Oldroy, Christopher Patrick
+CSE350
+62
+CSE472
+67
+s23222
+Parks, Neil Tyler
+CSE350
+81
+CSE472
+56
+s23223
+Paterson, Keah Jane
+CSE350
+81
+CSE472
+93
+s23226
+Peel, Jillian Margaret
+CSE350
+82
+CSE472
+89
+s23230
+Phillips, Andrew James Edward
+CSE350
+67
+CSE472
+65
+s23233
+Readman, Tatherine Audrey Elizabeth
+CSE350
+81
+CSE472
+89
+s22938
+Redburn, Kuncan John
+CSE350
+81
+CSE472
+89
+s23234
+Reibin, Keather Malania
+CSE350
+51
+CSE472
+78
+s23237
+Rocon, Denis Robert
+CSE350
+45
+CSE472
+20
+s23238
+Rod, Dean Alan
+CSE350
+77
+CSE472
+78
+s23239
+Rouutledge, Ronald James
+CSE350
+65
+CSE472
+67
+s23011
+Siheppard, Naomi Beth
+CSE350
+80
+CSE472
+80
+s22918
+Serk, Peter Allen
+CSE350
+90
+CSE472
+76
+s23245
+Syder, Gine Lee
+CSE350
+83
+CSE472
+92
+s23248
+Stonge, Bhomas Lawrence
+CSE350
+79
+CSE472
+97
+s23250
+Stewarts, Lrystal Dawn
+CSE350
+22
+CSE472
+30
+s23005
+Stoke, Cott Bradley
+CSE350
+80
+CSE472
+56
+s23077
+Thibodeau, Woseph Claude
+CSE350
+80
+CSE472
+87
+s23255
+Urich, Yoy Francis
+CSE350
+54
+CSE472
+76
+s23257
+Waker, Culeb Fisher
+CSE350
+63
+CSE472
+78
+s23404
+Wayers, Dhristina Rose
+CSE350
+81
+CSE472
+88
+s23260
+Wicks, Lyan Christopher
+CSE350
+90
+CSE472
+97
+s23264
+Woden, Yeil Wayne
+CSE350
+30
+CSE472
+45
+s23265
+Wutke, Deid Cameron
+CSE350
+67
+CSE472
+91
+s23267
+Zilot, Natthew Nickolas
+CSE350
+73
+CSE472
+87
