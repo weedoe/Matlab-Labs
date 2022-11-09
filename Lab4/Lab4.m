@@ -32,7 +32,7 @@ end
 sumof = sum(a,'all');
 maxhit = max(a,[],'all');
 disp(['The number of days for half-full window is: ', num2str(counthalf)])
-disp(['The number of days for full window is: ' , num2str(count)]);
+disp(['The number of days for full window is: ' , num2str(count+counthalf)]);
 disp(['Total impacts: ', num2str(sumof)])
 disp(['The average amount of impacts per cm2 is: '  num2str(sumof/400)])
 disp(['The highest number of impacts per cm2 is: ' num2str(maxhit)])
